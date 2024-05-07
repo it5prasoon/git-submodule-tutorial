@@ -1,9 +1,12 @@
 [submodule "packages/Auto-Reply-Android"]
 	path = packages/Auto-Reply-Android
 	url = https://github.com/it5prasoon/Auto-Reply-Android
+	branch = main
 [submodule "packages/CatalogApp"]
 	path = packages/CatalogApp
 	url = https://github.com/it5prasoon/CatalogApp
+	branch = main
 [submodule "packages/PropertyPicker"]
 	path = packages/PropertyPicker
 	url = git@github.com:it5prasoon/PropertyPicker.git
+	branch = main
