@@ -4,3 +4,6 @@
 [submodule "packages/CatalogApp"]
 	path = packages/CatalogApp
 	url = https://github.com/it5prasoon/CatalogApp
+[submodule "packages/PropertyPicker"]
+	path = packages/PropertyPicker
+	url = git@github.com:it5prasoon/PropertyPicker.git
